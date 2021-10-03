@@ -707,7 +707,7 @@
     "cost": 5,
     "id": "066eb8b0-98ff-437a-8a0c-712746e0f6e1",
     "debt": 0,
-    "expansion": "Promo - Sauna / Avanto",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
@@ -716,10 +716,10 @@
     "categories": [],
     "buys": 0,
     "actions": 0,
-    "text": "This pile starts the game with 5 copies of Sauna on top, then 5 copies of Avanto. Only the top card of the pile can be gained or bought. Sauna: +1 Card; +1 Action. You may play an Avanto from your hand. — While this is in play, when you play a Silver, you may trash a card from your hand. Avanto: +3 Cards. You may play an Sauna from your hand. ",
+    "text": "+3 Cards. You may play an Sauna from your hand. ",
     "trash": false,
     "exile": false,
-    "name": "Sauna / Avanto",
+    "name": "Avanto",
     "junk": false,
     "gain": 0,
     "supply": true,
@@ -1533,7 +1533,7 @@
     "cost": 3,
     "id": "4d7bce02-cc72-4c78-a2de-9b5577b47ba8",
     "debt": 0,
-    "expansion": "Promo - Black Market",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
@@ -4375,7 +4375,7 @@
     "cost": 4,
     "id": "c48b3701-7248-4267-a946-af189055ee43",
     "debt": 0,
-    "expansion": "Promo - Dismantle",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
@@ -5123,7 +5123,7 @@
     "cost": 4,
     "id": "73176d11-ff03-4fe5-8cc2-b101a968c833",
     "debt": 0,
-    "expansion": "Promo - Envoy",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
@@ -6838,7 +6838,7 @@
     "cost": 5,
     "id": "9a87d113-554d-4992-9c6f-742b604b359e",
     "debt": 0,
-    "expansion": "Promo - Governor",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
@@ -12588,7 +12588,7 @@
     "cost": 8,
     "id": "7c9c7f8c-8e30-4556-988d-ba21f61067de",
     "debt": 0,
-    "expansion": "Promo - Prince",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
@@ -13888,6 +13888,47 @@
     "trash": true,
     "exile": false,
     "name": "Salvager",
+    "junk": false,
+    "gain": 0,
+    "supply": true,
+    "related": [
+    ],
+    "tokens": {
+      "victory": 0,
+      "coin": 0,
+      "embargo": false,
+      "debt": false,
+      "journey": false,
+      "minusCard": false,
+      "minusCoin": false,
+      "plusCard": false,
+      "plusAction": false,
+      "plusBuy": false,
+      "plusCoin": false,
+      "minusCost": false,
+      "trashing": false,
+      "estate": false,
+      "villagers": false
+    }
+  },
+  {
+    "potion": false,
+    "cost": 4,
+    "id": "2a7cecd1-e652-4770-abef-a4162f2f65b3",
+    "debt": 0,
+    "expansion": "Promo",
+    "types": [
+      "Action"
+    ],
+    "coins": 0,
+    "cards": 1,
+    "categories": [],
+    "buys": 0,
+    "actions": 1,
+    "text": "+1 Card; +1 Action. You may play an Avanto from your hand. — While this is in play, when you play a Silver, you may trash a card from your hand. ",
+    "trash": true,
+    "exile": false,
+    "name": "Sauna",
     "junk": false,
     "gain": 0,
     "supply": true,
@@ -15262,7 +15303,7 @@
     "cost": 5,
     "id": "f6066c73-c4d8-4b2a-9719-2ea7d5697802",
     "debt": 0,
-    "expansion": "Promo - Stash",
+    "expansion": "Promo",
     "types": [
       "Treasure"
     ],
@@ -15467,7 +15508,7 @@
     "cost": 5,
     "id": "53148781-d379-4008-a5b0-7c0cc39ccc51",
     "debt": 0,
-    "expansion": "Promo - Summon",
+    "expansion": "Promo",
     "types": [
       "Event"
     ],
@@ -17925,7 +17966,7 @@
     "cost": 4,
     "id": "7b75d22c-cc44-4d94-85c8-15949a51f16c",
     "debt": 0,
-    "expansion": "Promo - Walled Village",
+    "expansion": "Promo",
     "types": [
       "Action"
     ],
